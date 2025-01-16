@@ -1,7 +1,11 @@
 # Personal-Portfolio-Webpage-3
 
-
-
+**Name**: JAVERIA MAHEEN
+**Company**: CODETECH IT SOLUTIONS
+**ID**: CT08DS624
+**Domain**: Frontend Web Development
+**Duration**: December to January 2025
+**Mentor**: SRAVANI
 
 # Project Overview
 The Personal Portfolio Webpage Project is a static website designed to showcase an individual's professional profile, skills, experience, and achievements. The website serves as an online resume, highlighting the individual's strengths and accomplishments. This project was developed using HTML, CSS, and JavaScript, with YouTube tutorials serving as a valuable resource.
@@ -52,3 +56,25 @@ The following non-functional requirements were considered in the development of 
 
 # Conclusion
 The Personal Portfolio Webpage Project demonstrates a visually appealing and interactive personal portfolio webpage using HTML, CSS, and JavaScript. By following the objectives, key activities, and technologies outlined in this overview, developers can create a functional and effective personal portfolio webpage. This project serves as a foundation for more complex and feature-rich web development projects, and can be extended or modified to accommodate various requirements and use cases.
+
+
+# Output Images:
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 26 00 PM" src="https://github.com/user-attachments/assets/0ab7f68f-6ba8-4c44-b858-b392bc559e6c" />
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 22 18 PM" src="https://github.com/user-attachments/assets/d1dca3e5-0298-4c49-8218-b8fad6d59c39" />
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 25 49 PM" src="https://github.com/user-attachments/assets/17b9c2c7-6225-4004-b8b0-764255781d9e" />
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 26 12 PM" src="https://github.com/user-attachments/assets/4783916a-d101-41f8-9768-3468db0ceca7" />
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 26 16 PM" src="https://github.com/user-attachments/assets/be9f5726-15f9-41d7-a717-bec8b405fe0b" />
+
+
+
+
+
+
+
+
+
